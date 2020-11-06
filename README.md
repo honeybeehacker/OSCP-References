@@ -1,2 +1,2 @@
 # OSCP-References
-A compilation of beginner pentesting/OSCP references and recourses. 
+A compilation of beginner pentester/OSCP references and recourses. 
