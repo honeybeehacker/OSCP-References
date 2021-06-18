@@ -1,4 +1,5 @@
 # General Guides:
+- HackTricks: https://book.hacktricks.xyz/ (my favorite starting point for most things, this resource is excellent)
 - SNMP Vulns: https://www.btcirt.bt/snmp-vulnerability/
 - https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html#samba
 - Hakluke's OSCP Guide, part 3: https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97
@@ -44,6 +45,7 @@
 - payatu's Linux Priv Esc: https://payatu.com/guide-linux-privilege-escalation/
 - g0tmi1k's basic linux priv esc: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
 - LinuxEOP: https://guif.re/linuxeop
+- LinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 - Sudo and SU: https://www.linux.com/blog/how-use-sudo-and-su-commands-linux-introduction
 - SUID Misconfigs: https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/
 - SUID Executables: https://pentestlab.blog/2017/09/25/suid-executables/
@@ -53,4 +55,4 @@
 - Windows EOP: https://guif.re/windowseop
 - PayloadsAllTheThings' Windows Priv Esc: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
 - pentestmonkey's windows privesc check: https://github.com/pentestmonkey/windows-privesc-check
-
+- WinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
